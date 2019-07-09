@@ -1,1 +1,1 @@
-    expect(first_number).to be_an(57)
+expect(first_number).to be_a(57)
